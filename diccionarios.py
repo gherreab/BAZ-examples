@@ -19,3 +19,5 @@ print("Cantidad de perros llamados Sparky:", count_dogs.get("Sparky", 0))
 print("Lista de diferentes nombres de perros:")
 nombres_de_diferentes_perros = list(count_dogs.keys())
 print(nombres_de_diferentes_perros)
+
+# comment
